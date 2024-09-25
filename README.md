@@ -57,7 +57,9 @@ Our devkit is available and can be installed via [pip](https://pip.pypa.io/en/st
 ```
 pip install nuscenes-devkit
 ```
+For the local installation, see [pip installation](https://stackoverflow.com/questions/72715462/how-to-install-this-python-package-from-sources)
 For an advanced installation, see [installation](https://github.com/nutonomy/nuscenes-devkit/blob/master/docs/installation.md) for detailed instructions.
+
 
 ## nuImages
 nuImages is a stand-alone large-scale image dataset.
